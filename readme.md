@@ -1,6 +1,6 @@
 This is a program for two-dimensional Navier-Stokes equations (vortex-streamfunction equation actually).
 
-The program is specified on homogeneous isotropic turbulence and the computational domain is $[0,2\pi]\times[0,2\pi]$ with both periodic conditions.
+The program is specified on homogeneous isotropic turbulence and the computational domain is $[0,2\pi]\times[0,2\pi]$ with both periodic boundary conditions.
 
 The mesh is uniform and has equal number of cells in both directions. 
 User should specify resolution in configuration file.
